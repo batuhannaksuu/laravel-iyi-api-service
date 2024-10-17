@@ -1,0 +1,20 @@
+{
+    "name": "batuhan/laravel-iys-api-service",
+    "description": "Laravel IYS ve AHS API Servisleri",
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Batuhan\\LaravelIysApiService\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "batuhannaksuu",
+            "email": "83233575+batuhannaksuu@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
