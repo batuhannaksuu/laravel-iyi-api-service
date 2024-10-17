@@ -1,5 +1,5 @@
 {
-    "name": "batuhan/laravel-iys-api-service",
+    "name": "batuhannaksuu/laravel-iys-api-service",
     "description": "Laravel IYS ve AHS API Servisleri",
     "require": {
         "guzzlehttp/guzzle": "^7.9"
@@ -13,7 +13,7 @@
     "authors": [
         {
             "name": "batuhannaksuu",
-            "email": "83233575+batuhannaksuu@users.noreply.github.com"
+            "email": "aksusoftware@gmail.com"
         }
     ],
     "minimum-stability": "stable"
