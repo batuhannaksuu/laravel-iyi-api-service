@@ -16,5 +16,11 @@
             "email": "aksusoftware@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/batuhannaksuu/laravel-iys-api-service"
+        }
+    ],
+    "minimum-stability": "dev"
 }
